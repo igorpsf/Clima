@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		78A7242B264B8B8C00E5B78C /* WheaterManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78A7242A264B8B8C00E5B78C /* WheaterManager.swift */; };
 		78A7242F264E16C100E5B78C /* WheatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78A7242E264E16C100E5B78C /* WheatherData.swift */; };
+		78A72431264F700900E5B78C /* WheaterModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78A72430264F700900E5B78C /* WheaterModel.swift */; };
 		ADAA27B1231BBFAF00365194 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAA27B0231BBFAF00365194 /* AppDelegate.swift */; };
 		ADAA27B3231BBFAF00365194 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAA27B2231BBFAF00365194 /* SceneDelegate.swift */; };
 		ADAA27B5231BBFAF00365194 /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAA27B4231BBFAF00365194 /* WeatherViewController.swift */; };
@@ -21,6 +22,7 @@
 /* Begin PBXFileReference section */
 		78A7242A264B8B8C00E5B78C /* WheaterManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WheaterManager.swift; sourceTree = "<group>"; };
 		78A7242E264E16C100E5B78C /* WheatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WheatherData.swift; sourceTree = "<group>"; };
+		78A72430264F700900E5B78C /* WheaterModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WheaterModel.swift; sourceTree = "<group>"; };
 		ADAA27AD231BBFAF00365194 /* Clima.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Clima.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADAA27B0231BBFAF00365194 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ADAA27B2231BBFAF00365194 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 			children = (
 				78A7242A264B8B8C00E5B78C /* WheaterManager.swift */,
 				78A7242E264E16C100E5B78C /* WheatherData.swift */,
+				78A72430264F700900E5B78C /* WheaterModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				ADAA27B1231BBFAF00365194 /* AppDelegate.swift in Sources */,
 				78A7242B264B8B8C00E5B78C /* WheaterManager.swift in Sources */,
 				78A7242F264E16C100E5B78C /* WheatherData.swift in Sources */,
+				78A72431264F700900E5B78C /* WheaterModel.swift in Sources */,
 				ADAA27B3231BBFAF00365194 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
